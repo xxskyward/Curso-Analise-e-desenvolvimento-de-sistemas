@@ -1,0 +1,9 @@
+Git clone
+git init
+git status
+mkdir
+git add *
+ls
+cd
+cd ..
+git push origin main

@@ -1,0 +1,14 @@
+Estrutura básicado html:
+
+
+<!Doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Nome_da_página</title>
+	</head>
+	<body>
+		<header><h1-h6>Cabeçalho</h1-h6></header>
+		<footer>Rodapé</footer>
+	</body>
+</html>

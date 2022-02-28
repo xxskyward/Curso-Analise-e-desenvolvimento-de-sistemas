@@ -11,4 +11,7 @@ Estrutura básicado html:
 		<header><h1-h6>Cabeçalho</h1-h6></header>
 		<footer>Rodapé</footer>
 	</body>
+	<footer>
+		<...></...>
+	</footer>
 </html>
